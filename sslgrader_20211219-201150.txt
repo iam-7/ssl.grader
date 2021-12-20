@@ -1,0 +1,39 @@
+
+Certificate Grade for Server: facebook.com
+
+Certificate Score     : 100
+Protocol Support      : 50
+Key Exchange          : 100
+Cipher suite          : 40
+
+Certificate Grade     : C
+
+Server Score with Best configurations
+
+Protocol Support      : 100
+Cipher suite          : 100
+
+Certificate Grade     : O
+
+Common Name                 :   *.facebook.com
+Subject Alternative Names   :   DNS:*.facebook.com, DNS:*.facebook.net, DNS:*.fbcdn.net, DNS:*.fbsbx.com, DNS:*.m.facebook.com, DNS:*.messenger.com, DNS:*.xx.fbcdn.net, DNS:*.xy.fbcdn.net, DNS:*.xz.fbcdn.net, DNS:facebook.com, DNS:messenger.com
+Issuer                      :   DigiCert SHA2 High Assurance Server CA
+Serial Number               :   78CB774F480A25AF594A7D6B9ECDB1A
+SHA1 Thumbprint             :   CD5410FB804B27F55D8B4672886E33B600E07CC2
+Publick Key Type            :   id-ecPublicKey
+Key Length                  :   256         
+Signature Algorithm         :   sha256WithRSAEncryption
+
+Is_Valid Chain              :   True
+OCSP Origin                 :   http://ocsp.digicert.com
+OCSP Status                 :   GOOD
+CRL Status                  :   Not Revocked
+
+The certificate expires     :   2021-12-26 23:59:59
+
+Protocol's Supported        :   ['TLSv10', 'TLSv11', 'TLSv12']
+
+Ciphers suite supported     :
+
+['TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA', 'TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA', 'TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA', 'TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA', 'TLS_RSA_WITH_AES_128_CBC_SHA', 'TLS_RSA_WITH_AES_256_CBC_SHA', 'TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA', 'TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA', 'TLS_RSA_WITH_3DES_EDE_CBC_SHA', 'TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA', 'TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA', 'TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA', 'TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA', 'TLS_RSA_WITH_AES_128_CBC_SHA', 'TLS_RSA_WITH_AES_256_CBC_SHA', 'TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA', 'TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA', 'TLS_RSA_WITH_3DES_EDE_CBC_SHA', 'TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256', 'TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384', 'TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256', 'TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384', 'TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA', 'TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA', 'TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA', 'TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA', 'TLS_RSA_WITH_AES_128_GCM_SHA256', 'TLS_RSA_WITH_AES_256_GCM_SHA384', 'TLS_RSA_WITH_AES_128_CBC_SHA', 'TLS_RSA_WITH_AES_256_CBC_SHA', 'TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA', 'TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA', 'TLS_RSA_WITH_3DES_EDE_CBC_SHA']
+
